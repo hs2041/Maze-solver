@@ -5,6 +5,8 @@ Command: python a_star2.py [file no.]
 
 File no. should be between 1 and 9
 
+All the images have the entry point random allocated on the top edge and similarly, an exit point on the bottom edge
+
 The output solution generated is saved in the results folder
 
 # Sample image
